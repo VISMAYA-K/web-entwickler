@@ -1,0 +1,38 @@
+body{
+  font-family: 'Muli', sans-serif;
+  font-size: 150%;
+}
+container-fluid{
+  padding: 0 3%;
+}
+.heading{
+  color: #303960;
+  padding: 2% 30% 2%;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #00909e;
+  padding-bottom: 20px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #1f4068;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+.navbar-brand{
+  font-size: 2.2rem;
+}
+.nav-link{
+  font-size: 1.7rem;
+}
+.nav-item{
+  padding: 10px 18px;
+}
